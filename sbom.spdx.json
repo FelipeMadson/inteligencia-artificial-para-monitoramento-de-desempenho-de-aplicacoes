@@ -1,0 +1,46 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Inteligencia Artificial Para Monitoramento De Desempenho De Aplicacoes SBOM",
+  "documentNamespace": "https://github.com/FelipeMadson/inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes/spdxdocs/inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes-1.0.0-d767ea4f-951c-4772-995a-6256bcfcf86a",
+  "creationInfo": {
+    "created": "2026-09-30T15:18:13.480Z",
+    "creators": [
+      "Person: Felipe Madison (@FelipeMadson)",
+      "Organization: Autonomous Portfolio Engine — Staff Engineering Grade",
+      "Tool: SecurityCiGenerator-1.0.0"
+    ],
+    "licenseListVersion": "3.21"
+  },
+  "packages": [
+    {
+      "name": "inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes",
+      "SPDXID": "SPDXRef-Package-inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes",
+      "versionInfo": "1.0.0",
+      "packageFileName": "inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes-1.0.0.tar.gz",
+      "packageSupplier": "Person: Felipe Madison (https://github.com/FelipeMadson)",
+      "originator": "Person: Felipe Madison (https://github.com/FelipeMadson)",
+      "downloadLocation": "git+https://github.com/FelipeMadson/inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes.git@v1.0.0",
+      "filesAnalyzed": false,
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73ec3dbf624e9b7c3359dfd199d5bd1ebdfb389c7e9ad44714cf31d2199b302a"
+        }
+      ],
+      "homepage": "https://github.com/FelipeMadson/inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes",
+      "concludedLicense": "MIT",
+      "declaredLicense": "MIT",
+      "copyrightText": "Copyright (c) 2026 Felipe Madison (@FelipeMadson)",
+      "description": "Enterprise-grade production release for Inteligencia Artificial Para Monitoramento De Desempenho De Aplicacoes, engineered by Felipe Madison."
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-Package-inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes",
+      "relationshipType": "DESCRIBES"
+    }
+  ]
+}
