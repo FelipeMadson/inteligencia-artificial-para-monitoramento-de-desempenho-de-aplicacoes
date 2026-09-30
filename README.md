@@ -44,7 +44,7 @@ Felipe Madson
 
 ## 🎮 Live Interactive Playground (No Backend Required)
 
-Experimente o simulador em tempo real executando 100% no seu navegador com WebCrypto, Token Bucket e Write-Ahead Logging:
+Experimente o simulador de IA com inferência neural, quantização GGUF (FP16/Q4_K_M) e busca vetorial RAG em tempo real no seu navegador:
 👉 **[Acessar Live Playground do Inteligencia Artificial Para Monitoramento De Desempenho De Aplicacoes](https://felipemadson.github.io/inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes/)**
 
 ## 🖥️ Demonstração em Terminal Vetorial (Execução & Benchmarks)
