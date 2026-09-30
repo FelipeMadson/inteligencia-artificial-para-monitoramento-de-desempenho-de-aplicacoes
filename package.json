@@ -1,10 +1,14 @@
 {
-  "name": "inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes",
+  "name": "@felipemadson/inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes",
   "version": "1.1.0",
   "type": "module",
   "scripts": {
     "test": "node --experimental-strip-types --test tests/**/*.test.ts"
   },
   "author": "Felipe Madison (@FelipeMadson)",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes": "./bin/cli.js",
+    "@felipemadson/inteligencia-artificial-para-monitoramento-de-desempenho-de-aplicacoes": "./bin/cli.js"
+  }
 }
