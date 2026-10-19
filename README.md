@@ -35,7 +35,7 @@ mvn clean install
 MIT License
 
 ## Author
-Felipe Madson
+Felipe Madison
 
 ---
 
